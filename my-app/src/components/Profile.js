@@ -6,7 +6,7 @@ function profile() {
             <div style={{textAlign: 'center',padding: '0px 10px 15px', borderBottom:'1px solid wheat'}}>
                 <div style={{backgroundColor: 'grey',height: '55px',margin:'-10px -10px 0px',borderRadius: '5px' ,}}></div>
                 <div style={{backgroundColor:'' ,margin: '-5px -10px 0px'}}>
-                    <img src="https://media-exp1.licdn.com/dms/image/D5635AQHiHv3Sp6jBzQ/profile-framedphoto-shrink_100_100/0/1639503680358?e=1641906000&v=beta&t=PW5az1mLEkOK2OA92RzD2XHzzPPivSO3x8XgLYOZfLM" alt="Profile" style={{height:80,width:80,borderRadius: '40px', margin:'-40px 0px 15px 0px'}}/>
+                    <img src="https://www.pngitem.com/pimgs/m/78-786293_1240-x-1240-0-avatar-profile-icon-png.png" alt="Profile" style={{height:80,width:80,borderRadius: '40px', margin:'-40px 0px 15px 0px'}}/>
                 </div>
                 <span style={{}}><strong>Vysakh K R</strong></span>
                 <div style={{fontSize:15, marginTop:5}}>
