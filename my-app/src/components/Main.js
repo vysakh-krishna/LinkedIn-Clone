@@ -1,5 +1,6 @@
 import React from 'react'
 import Home from './Home'
+import Network from './Network';
 function Main(props) {
     if(props.content==='Home'){
         return(
@@ -9,7 +10,11 @@ function Main(props) {
         );
     }
     else if(props.content==='My Network'){
-        return(<div><Home/></div>);
+        return(
+            <div>
+                <Network/>
+            </div>
+        );
     }
     else if(props.content==='Jobs'){
         return(<div>Jobs</div>);

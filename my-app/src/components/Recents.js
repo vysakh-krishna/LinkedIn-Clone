@@ -27,17 +27,14 @@ function Recents() {
                 </div>
                 <br/>
                 <div style={{alignItems: 'center'}}>
-                    <span style={{fontSize:14,color:'blue'}}><strong>Groups</strong></span>
-                </div>
-                <div style={{alignItems: 'center'}}>
-                    <span style={{fontSize:14,color:'blue'}}><strong>Groups</strong></span>
+                    <span style={{fontSize:14,color:'#00ade8'}}>Groups</span>
                 </div>
                 <div style={{alignItems: 'center',display: 'flex'}}>
-                    <span style={{fontSize:14,color:'blue',flex:1}}><strong>Events</strong></span>
+                    <span style={{fontSize:14,flex:1,color:'#00ade8'}}>Events</span>
                     <span style={{fontSize:20}}>+</span>
                 </div>
                 <div style={{alignItems: 'center'}}>
-                    <span style={{fontSize:14,color:'blue'}}><strong>Followed Hashtags</strong></span>
+                    <span style={{fontSize:14,color:'#00ade8'}}>Followed Hashtags</span>
                 </div>
                 <br/>
                 <div style={{alignItems: 'center'}}>

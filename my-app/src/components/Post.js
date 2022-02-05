@@ -4,9 +4,10 @@ const postcontainer = {
     backgroundColor:'white',
     width:'550px',
     borderRadius:5,
-    marginTop:10,
-    marginBottom:10,
-    margin:'auto'
+    marginBottom:'10px',
+    marginRight:'auto',
+    marginLeft:'auto',
+    marginTop:'auto',
 }
 function Post({author,content,time,image,likes}) {
     const [like, setlike]=useState("false");

@@ -19,7 +19,7 @@ function profile() {
                     <br/>
                     <span style={{fontSize:12}}>Grow your network</span>
                 </div>
-                <span style={{fontSize:12,color:'blue'}}>28</span>
+                <span style={{fontSize:12,color:'#00ade8'}}>28</span>
             </div>
             <div style={{display: 'flex',padding: '10px',alignItems:"center",fontSize:12}}>
                 <div style={{padding: '10px'}}>
