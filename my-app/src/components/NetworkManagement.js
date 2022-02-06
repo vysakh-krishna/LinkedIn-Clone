@@ -15,7 +15,8 @@ const button={
   border: 'none',
   padding: '5px',
   borderRadius:5,
-  backgroundColor:'#c4c4c4'
+  backgroundColor:'#c4c4c4',
+  cursor:'pointer'
 }
 function NetworkManagement() {
     const [moreless, setMoreless] = useState("Show more");
